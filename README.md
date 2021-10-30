@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh-vardhan14
 - 👀 I’m interested in software & web development
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
